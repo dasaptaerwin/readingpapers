@@ -1,8 +1,10 @@
-Reading academic papers
+Membaca (menelaah) makalah akademik
 -------------------------
+Dokumen ini adalah translasi dari dokumen berjudul `Reading Papers` yang ditulis oleh J.T. Leek untuk para mahasiswa dalam grup risetnya, yang telah diunggah di repository Githubnya. Pak J.T. Leek ini adalah dosen di [John Hopkins Bloomberg School of Public Health](http://www.jhsph.edu/). Kuliah masifnya tentang data analysis di Coursera sangat terkenal. Para pembaca yang budiman dipersilahkan google sendiri ya.
 
-I have written a few guides for people in academics including:
+>_Moral of the story_ dari upaya saya ini adalah untuk memberikan gambaran kepada rekan-rekan dosen/peneliti, bahwa paper/publikasi formal adalah hanya salah satu dari output kegiatan kita. Pesan yang kedua adalah kalau ada rekan yang dengan semangat menyampaikan putput kegiatannya, itu bukanlah narsis, my friend, that is called `Publish and Publicize`. Itu adalah bagian dari `Science Communication`. Silahkan baca [tweet saya pagi ini](https://twitter.com/dasaptaerwin/status/752272892704923648) dan [slide saya ini](http://www.slideshare.net/d_erwin_irawan/science-communication-dep-manajemen-dan-bisnis-feb-unpad). 
 
+Beberapa panduan lainnya yang telah ditulis oleh J.T. Leek adalah sebagai berikut:
 * [How to write your first paper](https://github.com/jtleek/firstpaper)
 * [How to review a paper](https://github.com/jtleek/reviews)
 * [How to share data](https://github.com/jtleek/datasharing)
