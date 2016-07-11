@@ -55,7 +55,9 @@ Saat ini anda dapat membaca paper secara gratis pada beberapa tempat berikut ini
 * Agregator seperti Pubmed Central, 
 * Website/blog pribadi penulis yang terkadang mengunggah versi draft dari makalah mereka. 
 
-If you run into a paper that costs money the first thing to do is check and see if the authors have published a pre-print and then check their website. If you still don't have any luck you could email the authors directly to ask for a copy of their paper (they are usually happy to oblige). 
+Jadi bila anda kebetulan menemukan makalah menarik yang berbayar, maka pertama kali anda harus cek apakah penulisnya memiliki makalah versi _pre-print_ atau cek blog pribadinya. Bila masih tidak beruntung, anda bisa kapan saja mencoba mengirimkan email secara pribadi langsung kepada penulis untuk meminta soft copy makalahnya.
+
+>Sekarang sudah ada [Researchgate](www.researchgate.net) yang membantu proses permintaan makalah ini (dengan asumsi, penulis memiliki profil di jejaring ini).
 
 A more modern approach that has sprung up is something called _#icanhazpdf_ which is a way you can crowdsource a pdf of a paper you can't read. If you have a twitter account, post a link to the paper, the hashtag _#icanhazpdf_ and your email address and often someone will be willing to find and send you a copy of the paper. When you have the copy, delete your tweet, as this approach is technically a violation and could get you in trouble. Mostly journals won't care if you don't do this over and over with tons of papers, but be warned that journals can be nasty/lawyer up when their interests are being threatened. 
 
