@@ -92,14 +92,14 @@ Pengecualian untuk makalah dalam bidang yang tidak familiar, maka saya akan memb
 
 ## Membaca makalah - Bagian `Metode/material tambahan`
 
-If I decide to read a paper carefully I spend the majority of my time reading the methods and supplemental material. This is where most of the real "science" is. It tells you how they did the experiments, how they analyzed the data, and how they support their conclusions. I'm looking for a few things when I read the methods section at a high level including:
+Setelah membaca bagian pendahuluan dan merasa masih tertarik, maka saya akan menghabiskan banyak waktu di bagian metode dan material tambahan (_supplementary materials_), karena di bagian ini mengandung porsi saintifik terbesar. Ia menceritakan bagaimana penulis melakukan eksperimen, menganalisis data, dan bagaimana mereka membangun argumen yang mendukung kesimpulan. Beberapa hal yang saya cari di bagian ini antara lain:
 
-* Do they explain clearly exactly which data they collected?
-* Do they explain clearly exactly what analysis they performed on those data? 
-* Do they point to where I can get the data and code so I can verify these things? 
-* Do they explain every step in a process or skip over steps and reference previous papers? 
+* Apakah penulis menceritakan dengan jelas bagaimana data diambil?
+* Apakah mereka menjelaskan dengan jelas bagaimana analisis data dilakukan? 
+* Apakah mereka menunjukkan posisi data (mentah) agar verifikasi dapat dilakukan oleh pembaca? 
+* Apakah penulis menjelaskan tahapan proses dan rujukan makalah sebelumnya? 
 
-Unfortunately, after that you sort of have to know the area to judge more critically whether the things they are doing are good or not. This comes with practice or with expertise in an area and can't be summarized very easily into succinct guidelines. 
+Setelahnya, anda dapat menilai secara lebih kritis apakah penulis melakukan penelitian dengan baik atau tidak. Penilaian ini akan berkaitan dengan kepakaran dan pengalaman kita.  
 
 ## Membaca makalah - Bagian `Hasil`
 
