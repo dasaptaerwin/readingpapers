@@ -1,10 +1,10 @@
 Membaca (menelaah) makalah akademik
 -------------------------
-Dokumen ini adalah translasi dari dokumen berjudul `Reading Papers` yang ditulis oleh J.T. Leek untuk para mahasiswa dalam grup risetnya, yang telah diunggah di repository Githubnya. Pak J.T. Leek ini adalah dosen di [John Hopkins Bloomberg School of Public Health](http://www.jhsph.edu/). Kuliah masifnya tentang data analysis di Coursera sangat terkenal. Para pembaca yang budiman dipersilahkan google sendiri ya. Artikel ini awalnya ditulis untuk menanggapi tweet dari [Amelia McNamara](https://twitter.com/AmeliaMN/status/695633602751635456). Daripada menanggapi secara pribadi, Leek menulisnya untuk khalayak umum. 
+Dokumen ini adalah translasi dari dokumen berjudul `Reading Papers` yang ditulis oleh J.T. Leek (JTL) untuk para mahasiswa dalam grup risetnya, yang telah diunggah di repository Githubnya. JTL ini adalah dosen di [John Hopkins Bloomberg School of Public Health](http://www.jhsph.edu/). Kuliah masifnya tentang data analysis di Coursera sangat terkenal. Para pembaca yang budiman dipersilahkan google sendiri ya. Artikel ini awalnya ditulis untuk menanggapi tweet dari [Amelia McNamara](https://twitter.com/AmeliaMN/status/695633602751635456). Daripada menanggapi secara pribadi, JTL memutuskan untuk membuat blog post dalam format [Markdown](https://daringfireball.net/projects/markdown/) untuk khalayak umum. Artikel aslinya ada [di sini](https://github.com/jtleek/readingpapers). 
 
 >_Moral of the story_ dari upaya saya ini adalah untuk memberikan gambaran kepada rekan-rekan dosen/peneliti, bahwa paper/publikasi formal adalah hanya salah satu dari output kegiatan kita. Pesan yang kedua adalah kalau ada rekan yang dengan semangat menyampaikan putput kegiatannya, itu bukanlah narsis, my friend, that is called `Publish and Publicize`. Itu adalah bagian dari `Science Communication`. Silahkan baca [tweet saya pagi ini](https://twitter.com/dasaptaerwin/status/752272892704923648) dan [slide saya ini](http://www.slideshare.net/d_erwin_irawan/science-communication-dep-manajemen-dan-bisnis-feb-unpad). 
 
-Beberapa panduan lainnya yang telah ditulis oleh J.T. Leek adalah sebagai berikut:
+Beberapa panduan lainnya yang telah ditulis oleh JTL adalah sebagai berikut:
 * [How to write your first paper](https://github.com/jtleek/firstpaper)
 * [How to review a paper](https://github.com/jtleek/reviews)
 * [How to share data](https://github.com/jtleek/datasharing)
@@ -61,38 +61,40 @@ Jadi bila anda kebetulan menemukan makalah menarik yang berbayar, maka pertama k
 
 Cara yang lebih modern adalah menggunakan tagar Twitter dan meA more modern approach that has sprung up is something called `#icanhazpdf` di media sosial Twitter. Dengan cara ini anda dapat meminta kepada masyarakat umum yang mungkin memiliki pdf makalahnya dan berkenan membaginya kepada anda. Bila anda telah mendapatkan kirimkan makalanya, maka etikanya, anda harus menghapus tweet tersebut. Cara ini walaupun saat ini sudah sangat umum, tetapi ada beberapa pihak yang menyarankan agar tetap berhati-hati karena komunikasi di media Twitter bersifat terbuka, tidak pribadi seperti email. 
 
+>Simak juga akun twitter saya [@dasaptaerwin](https://twitter.com/dasaptaerwin).
+
 ## Seberapa banyak yang perlu anda baca?
 
-Makalah ilmiah terbit secara terus-menerus. Ribuan diterbitkan per tahun, termasuk ratusan pada bidang-bidang tertentu. Kecuali anda menghabiskan seluruh waktu anda dalam sehari, maka anda tidak akan dapat mengikuti perkembangan seluruh paper yang terbit. Pilihnya makalah yang paling menarik dan sesuai dengan minat anda. Oleh karenanya anda perlu belajar bagaimana cara mencarinya menggunakan kata kunci yang tepat. Sains sangat menakjubkan, jadi jangan menghabiskan waktu untuk hal-hal yang menjemukan. 
+Makalah ilmiah terbit secara terus-menerus. Ribuan diterbitkan per tahun, termasuk ratusan pada bidang-bidang tertentu. Kecuali anda menghabiskan seluruh waktu anda dalam sehari, maka andaJTL mengikuti dengan perkembangan seluruh paper yang terbit. Pilihnya makalah yang paling menarik dan sesuai dengan minatia . Oleh karenanya anda perlu belajar bagaimana cara mencarinya menggunakan kata kunci yang tepat. Sains sangat menakjubkan, jadi jangan menghabiskan waktu untuk hal-hal yang menjemukan. 
 
-Secara umum ada dua cara utama untuk mencari makalah yang anda minati. Cara saya (JT. Leek) adalah menggunakan agregator dengan _RSS feeds_ dari jurnal yang saya sukai, kemudian saya menggunakan proporsi waktu berikut untuk mengevaluasi tiap papernya:
+Secara umum ada dua cara utama untuk mencari makalah yang anda minati. Cara JTL adalah dengan menggunakan agregator dengan _RSS feeds_ dari jurnal yang saya sukai, kemudian ia menggunakan proporsi waktu berikut untuk mengevaluasi tiap papernya:
 
 * 100% - baca judulnya
 * 20-50% - baca abstraknya
 * 5-10% - lihat beberapa gambar/caption dan tabel
 * 1-3% - baca makalahnya secara lengkap
 
-Cara saya yang baru adalah mem-follow akun twitter agregator, misal bioRxiv dan beberapa orang yang memiliki minat yang sama. Kalau saya mengikuti daftar makalah yang ditweet oleh agregator, dan bila ada paper yang sama ditwit beberapa kali, maka biasanya akan saya baca. 
+Cara yang lebih baru adalah mem-follow akun twitter agregator, misal bioRxiv dan beberapa orang yang memiliki minat yang sama. JTL mengikuti daftar makalah yang ditweet oleh agregator, dan bila ada paper yang sama ditwit beberapa kali, maka biasanya ia akan membaca makalah yang ditweet itu. 
 
 ## Membaca makalah - bagian abstrak/judul
 
-Masing-masing orang akan beda strategi dalam membaca makalah. Pertama saya akan membaca judul dan abstrak untuk menangkap kesan (a) mengapa makalah ini menarik menurut penulisnya dan (b) apa hasil utamanya. Saya melakukannya untuk menilai apakah perlu untuk membacanya secara lengkap. Perlu diingat bahwa saya tidak menilai kualitas makalahnya, tetapi untuk menilai apakah makalah itu menarik atau tidak.  
+Masing-masing orang akan beda strategi dalam membaca makalah. Pertama JTL akan membaca judul dan abstrak untuk menangkap kesan (a) mengapa makalah ini menarik menurut penulisnya dan (b) apa hasil utamanya. Ia melakukannya untuk menilai apakah perlu untuk membacanya secara lengkap. Perlu diingat bahwa ia tidak menilai kualitas makalahnya, tetapi untuk menilai apakah makalah itu menarik atau tidak.  
 
 ## Membaca makalah - bagian gambar (dan tabel)
 
-Bila suatu makalah saya nilai menarik dari judul/abstraknya, maka selanjutnya saya akan melihat gambar-gambar (dan tabel) serta keterangannya. Seperti yang telah saya (JT Leek) tulis dalam makalah yang lain [my guide to writing papers](https://github.com/jtleek/firstpaper), bahwa gambar-gambar harus selaras dengan alur makalah dan harus memiliki keterangan gambar secara deskriptif.  
+Bila suatu makalah ia nilai menarik dari judul/abstraknya, maka selanjutnya disarankan untuk mempelajari gambar-gambar (dan tabel) serta keterangannya. Seperti yang telah ia tulis dalam makalah yang lain [my guide to writing papers](https://github.com/jtleek/firstpaper), bahwa gambar-gambar harus selaras dengan alur makalah dan harus memiliki keterangan gambar secara deskriptif.  
 
-Harapannya, gambar-gambar yang ada di dalamnya mudah dipahami. Saya biasanya mencari "kisah" yang diceritakan penulis. Dalam kasus makalah statistik atau komputasional, saya juga mencari perbandingan metode yang ada dalam suatu makalah dengan metoda yang telah digunakan dalam paper-paper sebelumnya, serta bagaimana berbagai metode tersebut saling mendukung satu sama lain. 
+Harapannya, gambar-gambar yang ada di dalamnya mudah dipahami. JTL biasanya mencari "kisah" yang diceritakan penulis. Dalam kasus makalah statistik atau komputasional, ia juga mencari perbandingan metode yang ada dalam suatu makalah dengan metoda yang telah digunakan dalam paper-paper sebelumnya, serta bagaimana berbagai metode tersebut saling mendukung satu sama lain. 
 
 ## Membaca makalah - Bagian `Pendahuluan`
 
-Bagian ini biasanya saya lewati. Bab Pendahuluan biasanya adalah pengembangan dari abstrak dan seringkali banyak mengandung opini penulis dibandingkan fakta.
+Bagian ini biasanya dilewati, karena biasanya merupakan pengembangan dari abstrak dan seringkali banyak mengandung opini penulis dibandingkan fakta.
 
-Pengecualian untuk makalah dalam bidang yang tidak familiar, maka saya akan membaca Bab Pendahulannya, terutama bagian yang mengulas penelitian-penelitian sebelumnya. Dan bila masih tidak paham, maka  saya akan melacaknya ke bagian referensi agar lebih cepat. 
+Pengecualian untuk makalah dalam bidang yang tidak familiar, maka JTL menyarankan untuk membaca Bab Pendahulannya secara utuh, terutama bagian yang mengulas penelitian-penelitian sebelumnya. Dan bila masih tidak paham, maka JTL akan melacaknya hingga ke bagian referensi. 
 
 ## Membaca makalah - Bagian `Metode/material tambahan`
 
-Setelah membaca bagian pendahuluan dan merasa masih tertarik, maka saya akan menghabiskan banyak waktu di bagian metode dan material tambahan (_supplementary materials_), karena di bagian ini mengandung porsi saintifik terbesar. Ia menceritakan bagaimana penulis melakukan eksperimen, menganalisis data, dan bagaimana mereka membangun argumen yang mendukung kesimpulan. Beberapa hal yang saya cari di bagian ini antara lain:
+Setelah membaca bagian pendahuluan dan merasa masih tertarik, maka JTL akan menghabiskan banyak waktu di hingga bagian metode dan data tambahan (_supplementary materials_), karena di bagian ini mengandung porsi saintifik terbesar. Ia menceritakan bagaimana penulis melakukan eksperimen, menganalisis data, dan bagaimana mereka membangun argumen yang mendukung kesimpulan. Beberapa hal yang saya cari di bagian ini antara lain:
 
 * Apakah penulis menceritakan dengan jelas bagaimana data diambil?
 * Apakah mereka menjelaskan dengan jelas bagaimana analisis data dilakukan? 
