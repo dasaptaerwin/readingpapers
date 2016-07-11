@@ -74,23 +74,21 @@ Secara umum ada dua cara utama untuk mencari makalah yang anda minati. Cara saya
 
 Cara saya yang baru adalah mem-follow akun twitter agregator, misal bioRxiv dan beberapa orang yang memiliki minat yang sama. Kalau saya mengikuti daftar makalah yang ditweet oleh agregator, dan bila ada paper yang sama ditwit beberapa kali, maka biasanya akan saya baca. 
 
-(bersambung)
+## Membaca makalah - bagian abstrak/judul
 
-## Reading a paper - the abstract/title
+Masing-masing orang akan beda strategi dalam membaca makalah. Pertama saya akan membaca judul dan abstrak untuk menangkap kesan (a) mengapa makalah ini menarik menurut penulisnya dan (b) apa hasil utamanya. Saya melakukannya untuk menilai apakah perlu untuk membacanya secara lengkap. Perlu diingat bahwa saya tidak menilai kualitas makalahnya, tetapi untuk menilai apakah makalah itu menarik atau tidak.  
 
-Different people will have different strategies. First I read the title and the abstract to get a sense for (a) why the paper is interesting according to the authors and (b) what are the main results in the paper. I do this to see if I think the paper is worth spending the time to read any deeper. I don't judge the quality at all from these components, just whether the paper is interesting or not. 
+## Membaca makalah - bagian gambar (dan tabel)
 
-## Reading a paper - the figures
+Bila suatu makalah saya nilai menarik dari judul/abstraknya, maka selanjutnya saya akan melihat gambar-gambar (dan tabel) serta keterangannya. Seperti yang telah saya (JT Leek) tulis dalam makalah yang lain [my guide to writing papers](https://github.com/jtleek/firstpaper), bahwa gambar-gambar harus selaras dengan alur makalah dan harus memiliki keterangan gambar secara deskriptif.  
 
-If I think the paper is interesting based on the title/abstract then the next thing I do is look at the figures and figure captions. As I've mentioned in [my guide to writing papers](https://github.com/jtleek/firstpaper) the figures should tell a coherent story and should have figure captions that explain what is going on. 
-
-Hopefully the papers you are reading have figures that are this easy to read. I'm usually looking for the "story" that the authors are trying to tell. In the case of statistical or computational papers I'm also looking for comparisons to previous approaches and how this method stacks up. 
+Harapannya, gambar-gambar yang ada di dalamnya mudah dipahami. Saya biasanya mencari "kisah" yang diceritakan penulis. Dalam kasus makalah statistik atau komputasional, saya juga mencari perbandingan metode yang ada dalam suatu makalah dengan metoda yang telah digunakan dalam paper-paper sebelumnya, serta bagaimana berbagai metode tersebut saling mendukung satu sama lain. 
 
 ## Membaca makalah - Bagian `Pendahuluan`
 
-I usually skip the introduction. This is often an extended version of the abstract and often contains more opinion than fact about how awesome a particular result is. 
+Bagian ini biasanya saya lewati. Bab Pendahuluan biasanya adalah pengembangan dari abstrak dan seringkali banyak mengandung opini penulis dibandingkan fakta.
 
-The one exception I have to this rule is if I don't know the scientific area very well. Then I read the part of the introduction that reviews previous work in the area and if I don't understand something, I go chase down the references from the introduction and read through those to "get up to speed".
+Pengecualian untuk makalah dalam bidang yang tidak familiar, maka saya akan membaca Bab Pendahulannya, terutama bagian yang mengulas penelitian-penelitian sebelumnya. Dan bila masih tidak paham, maka  saya akan melacaknya ke bagian referensi agar lebih cepat. 
 
 ## Membaca makalah - Bagian `Metode/material tambahan`
 
