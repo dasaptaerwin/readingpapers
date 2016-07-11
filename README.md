@@ -114,10 +114,14 @@ Just like with the introduction, I often skip the conclusions. It is usually jus
 Satu hal yang perlu diingat adalah bahwa perkembangan sains seringkali lambat, konstan, dan bertahap. Tetapi ada tekanan sangat besar bagi para saintis untuk menghasilkan "terobosan" (baca juga artikel saya ini ["i got a big one here"](http://simplystatistics.org/2016/02/01/a-menagerie-of-messed-up-data-analyses-and-how-to-avoid-them/) fallacy). Saat membaca makalah, bila si penulis When reading a paper if the authors claim they have cured cancer, discovered life on mars, or unified relativity and quantum theory then you should assume that they are full of it unless conclusively demonstrated otherwise.  
 
 
-## Explain it to someone else
+## Jelaskan (apa yang telah anda pahami) kepada orang lain 
 
-Reading academic papers can be a great way to catch up on knowledge. But in general I don't feel like I understand what is going on in a paper until I can explain the paper to someone else. So I try to discuss papers I think are really important with other people. The best way to do this is in a journal club or some other forum where you can put up figures from the paper and try to explain what is going on yourself. 
+Membaca makalah akademik adalah cara yang bagus untuk menangkap perkembangan ilmu. Tapi umumnya kita belum yakin tentang apa yang telah dipahami sebelum kita mampu menjelaskannya kepada orang lain, dan membuatnya paham. Maka JTL menyarankan untuk mendiskusikan suatu makalah dengan beberapa orang. Cara yang paling baik adalah dengan membentuk `journal club`. 
 
-## Find out if others have read it
+>Saat ini ada situs jejaring reviewer bernama [Publons](www.publons.com). Situs ini beranggotakan para peneliti yang membuat hasil reviewnya terhadap suatu dokumen ilmiah. SKor diberikan untuk orang yang telah membagikan hasil reviewnya. Coba anda kunjungi. 
 
-A lot of the papers I find interesting other people also find interesting. One nice way to learn a little more about a piece of scientific research is to see if it has been discussed on blogs. One thing to keep in mind is that blogs often have an agenda, so you should read the posts with a heavy dose of skepticism as well. Still, they can provide useful perspective on papers you've read. 
+## Cari tahu apakah orang lain telah membaca makalah yang sama
+
+Banyak makalah yang dinilai menarik oleh beberapa orang, juga dinilai bagus oleh sebagian pembaca yang lainnya. Satu cara yang baik untuk melihat apakah suatu makalah telah didiskusikan oleh banyak orang, adalah dengan mencari apakah ada blog yang telah membahasnya. Blog mengandung pendapat penulisnya (pemilik blog), sehingga sifatnya sangat subyektif. Oleh karenanya selain membaca pendapat yang mendukungMembaca makalah akademik adalah cara yang bagus untuk menangkap perkembangan ilmu. Tapi umumnya kita belum yakin tentang apa yang telah dipahami sebelum kita mampu menjelaskannya kepada orang lain, dan membuatnya paham. Maka JTL menyarankan untuk mendiskusikan suatu makalah dengan beberapa orang. Cara yang paling baik adalah dengan membentuk `journal club`. 
+
+>Saat ini ada situs jejaring reviewer bernama [Publons](www.publons.com). Situs ini beranggotakan para peneliti yang membuat hasil reviewnya terhadap suatu dokumen ilmiah. SKor diberikan untuk orang yang telah membagikan hasil reviewnya. Coba anda kunjungi. 
