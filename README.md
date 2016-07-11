@@ -27,29 +27,33 @@ Jawabannya akan sangat bergantung kepada bidang anda masing-masing. Berikut ini 
 * __Majalah kesehatan__: Di bidang ilmu kesehatan ada jurnal jenis ini seperti [New England Journal of Medicine](http://www.nejm.org/) dan [Journal of the American Medical Association](http://jama.jamanetwork.com/journal.aspx). Mereka punya nilai lebih sama dengan majalah saintifik, tapi dengan nilai kesehatan yang lebih tinggi (sedikit lebih spesifik). 
 * __Mega journals__: Jurnal-jurnal seperti [PLoS One](http://www.plosone.org/) dan [Peerj](https://peerj.com/) juga mempublikasikan makalah dalam area yang luas. Kriteria review-nya lebih fokus kepada kebenaran, tanpa harus terlihat sisi kebaruannya. Dengan demikian paper yang dimuat akan sangat beragam. 
 
-* __Jurnal saintifik bidang khusus__: Most scientific journals are not megajournals or magazines. These journals tend to be very field specific and tend to be much heavier on the details. This is where most science is published. The papers tend to be less focused on "breakthroughs" but are also less consistently risky to trust in these journals. In my area the journals might be something like [Biostatistics](http://biostatistics.oxfordjournals.org/) or  [Biometrics](http://www.biometrics.tibs.org/).
+* __Jurnal saintifik bidang khusus__: Jurnal ilmiah yang umumnya ada tidaklah masuk kategori sebagai mega-journals atau majalah. Jurnal-jurnal ini biasanya lebih spesifik, menceritakan hal-hal detil, dan sangat berat dari sisi teknis. Pada jurnal-jurnal jenis inilah kebanyak makalah ilmiah diterbitkan. Paper-paper yang terbit tidak menitikberatkan pada sisi terobosannya, tapi isinya dapat lebih dipercaya. Di bidang biostatistik dan kesehatan masyarakat, contoh jurnal ini adalah  [Biostatistics](http://biostatistics.oxfordjournals.org/) atau  [Biometrics](http://www.biometrics.tibs.org/).
 
-* __Makalah seminar/konferensi__: Di beberapa bidang keilmuan, people tend to publish in short, peer reviewed conference papers. These papers tend to be quite technical - conferences like [NIPS](https://nips.cc/) publish similar papers to very technical journals in other fields. Conference papers tend to be lighter on the detail and tend not to come with software/code so they can be a little harder to read and a little harder to use, but they are often talking about the very latest, coolest ideas in their subfield. 
+* __Makalah seminar/konferensi__: Beberapa bidang keilmuan ada yang cenderung menerbitkan publikasi pendek (ter-review) yang disampaikan dalam acara konferensi. Makalah-makalah jenis ini akan bersifat teknis serta menyampaikan hal-hal terbaru dan yang paling menarik sesuai lingkup konferensinya, seperti [NIPS](https://nips.cc/). Makalah jenis ini walaupun detil tapi disampaikan dalam bahasa yang lebih ringan, biasanya tidak mencantumkan kode program atau data secara detil, sehingga sulit untuk diikuti dan direplikasi.  
 
 ## Bagaimana cara menemukan bahan bacaan?
 
-The best places to find published academic papers are:
+Berikut ini adalah cara terbaik untuk menemukan bahan bacaan:
 
-* Journal websites are a good place to start. [Here](https://en.wikipedia.org/wiki/Lists_of_academic_journals) is a list of journals.
-* You can also read papers in biomedical sciences on aggregator sites like [Pubmed Central](http://www.ncbi.nlm.nih.gov/pmc/)
+* Jurnal website adalah tempat terbaik untuk memulainya. Berikut ini adalah contoh daftarnya [Daftar jurnal ilmiah](https://en.wikipedia.org/wiki/Lists_of_academic_journals).
+* Anda juga dapat membaca makalah yang tersedia di menggunakan agregator situs, seperti [Pubmed Central](http://www.ncbi.nlm.nih.gov/pmc/)
 
-One problem with journal websites in particular is that many of the papers are behind a paywall - you have to pay to read them (see the next section). Increasingly you can find the latest papers on soemthing called a pre-print server. These papers aren't peer reviewed yet, but a large fraction of them ultimately end up in peer-reviewed journals. The nice thing about these papers is that they are frequently the latest research and free to read. Two good preprint servers are [bioRxiv](http://biorxiv.org/) and [arXiv](http://arxiv.org/).
+>Saat ini banyak sekali yang dapat anda gunakan, seperti [DOAJ](www.doaj.org), [Google Scholar](scholar.google.com), atau platform riset _open access_ seperti [Scienceopen](www.scienceopen.com).
+
+Masalah utama biasanya muncul untuk jurnal-jurnal yang berbayar (_paywalled_). Anda harus membayar untuk dapat membaca artikel. Saat ini banyak jurnal-jurnal yang _open access_ atau repository  _pre-print_. Makalah-makalah _pre-print_ belum menjalani _peer review_, tapi kebanyakan akan berakhir sebagai makalah di jurnal-jurnal ilmiah. Hal yang menyenangkan adalah paper pre-print sering menjelaskan riset-riset terbaru dan gratis untuk dibaca. Dua server _pre-print_ yang sangat terkenal adalah: [bioRxiv](http://biorxiv.org/) dan [arXiv](http://arxiv.org/).
 
 ## _Open access_ dan tagar `#icanhazpdf`
 
 >Dalam hal ini silahkan membaca juga blog saya tentang [cara mendapatkan artikel ilmiah](http://dasaptaerwin.net/wp/2016/01/bagaimana-cara-mencari-makalah-berbayar-secara-gratis-dan-legal.html).
 
-One thing that is super frustrating if you aren't at a university or research insitute is that many papers you might want to read cost money. They cost money because journals are what's called closed-access and they depend on making their money from readers/subscribers. In general papers will be free in:
+Satu hal yang membuat frustasi adalah banyaknya makalah berbayar, yang kebetulan tidak dilanggan oleh universitas. Biaya yang kita bayar karena jurnal tersebut berjenis _close access_ dan mereka bergantung kepada uang yang dibayarkan pembaca atau institusi yang melanggannya. 
 
-* Open access journals (journals that make their money from authors instead of readers) like PLoS journals, Peerj, etc. 
-* Preprint servers like bioRxiv and arXiv
-* Aggregators like Pubmed Central from funders that require papers to be free
-* On authors websites where sometimes people post a free version. 
+Saat ini anda dapat membaca paper secara gratis pada beberapa tempat berikut ini:
+
+* Jurnal open access (jurnal yang membebankan biaya kepada penulis, bukan pembaca) seperti PLoS journals, Peerj, dll, 
+* Server _pre-print_ seperti bioRxiv and arXiv,
+* Agregator seperti Pubmed Central, 
+* Website/blog pribadi penulis yang terkadang mengunggah versi draft dari makalah mereka. 
 
 If you run into a paper that costs money the first thing to do is check and see if the authors have published a pre-print and then check their website. If you still don't have any luck you could email the authors directly to ask for a copy of their paper (they are usually happy to oblige). 
 
