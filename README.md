@@ -63,17 +63,18 @@ Cara yang lebih modern adalah menggunakan tagar Twitter dan meA more modern appr
 
 ## Seberapa banyak yang perlu anda baca?
 
-Academic papers come out all the time. Thousands are published every year, including hundreds in any given specific area. Unless you devote yourself full time to reading academic papers you won't be able to keep up with them all. I believe in the idea that you should read papers that you find interesting. Science is awesome and you shouldn't waste your time on the boring parts if you can avoid it. 
+Makalah ilmiah terbit secara terus-menerus. Ribuan diterbitkan per tahun, termasuk ratusan pada bidang-bidang tertentu. Kecuali anda menghabiskan seluruh waktu anda dalam sehari, maka anda tidak akan dapat mengikuti perkembangan seluruh paper yang terbit. Pilihnya makalah yang paling menarik dan sesuai dengan minat anda. Oleh karenanya anda perlu belajar bagaimana cara mencarinya menggunakan kata kunci yang tepat. Sains sangat menakjubkan, jadi jangan menghabiskan waktu untuk hal-hal yang menjemukan. 
 
-In general there are two main ways to find papers that I like. The way I used to do it was set up an aggregator with the RSS feeds from journals that I like, then I use the following (approximate) rates of reading parts of papers. 
+Secara umum ada dua cara utama untuk mencari makalah yang anda minati. Cara saya (JT. Leek) adalah menggunakan agregator dengan _RSS feeds_ dari jurnal yang saya sukai, kemudian saya menggunakan proporsi waktu berikut untuk mengevaluasi tiap papernya:
 
-* 100% - read the title
-* 20-50% - read the abstract
-* 5-10% - look at the figures/captions
-* 1-3% - read the whole paper
+* 100% - baca judulnya
+* 20-50% - baca abstraknya
+* 5-10% - lihat beberapa gambar/caption dan tabel
+* 1-3% - baca makalahnya secara lengkap
 
-The new way that I do it is follow bioRxiv and a bunch of other people who have similar interests on Twitter. I use the above percentages for papers tweeted from aggregators and if I see a paper tweeted by 2-3 people I trust I usually end up reading that paper. 
+Cara saya yang baru adalah mem-follow akun twitter agregator, misal bioRxiv dan beberapa orang yang memiliki minat yang sama. Kalau saya mengikuti daftar makalah yang ditweet oleh agregator, dan bila ada paper yang sama ditwit beberapa kali, maka biasanya akan saya baca. 
 
+(bersambung)
 
 ## Reading a paper - the abstract/title
 
