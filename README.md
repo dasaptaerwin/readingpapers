@@ -59,7 +59,7 @@ Jadi bila anda kebetulan menemukan makalah menarik yang berbayar, maka pertama k
 
 >Sekarang sudah ada [Researchgate](www.researchgate.net) yang membantu proses permintaan makalah ini (dengan asumsi, penulis memiliki profil di jejaring ini).
 
-A more modern approach that has sprung up is something called _#icanhazpdf_ which is a way you can crowdsource a pdf of a paper you can't read. If you have a twitter account, post a link to the paper, the hashtag _#icanhazpdf_ and your email address and often someone will be willing to find and send you a copy of the paper. When you have the copy, delete your tweet, as this approach is technically a violation and could get you in trouble. Mostly journals won't care if you don't do this over and over with tons of papers, but be warned that journals can be nasty/lawyer up when their interests are being threatened. 
+Cara yang lebih modern adalah menggunakan tagar Twitter dan meA more modern approach that has sprung up is something called `#icanhazpdf` di media sosial Twitter. Dengan cara ini anda dapat meminta kepada masyarakat umum yang mungkin memiliki pdf makalahnya dan berkenan membaginya kepada anda. Bila anda telah mendapatkan kirimkan makalanya, maka etikanya, anda harus menghapus tweet tersebut. Cara ini walaupun saat ini sudah sangat umum, tetapi ada beberapa pihak yang menyarankan agar tetap berhati-hati karena komunikasi di media Twitter bersifat terbuka, tidak pribadi seperti email. 
 
 ## Seberapa banyak yang perlu anda baca?
 
