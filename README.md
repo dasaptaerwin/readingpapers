@@ -14,19 +14,18 @@ Beberapa panduan lainnya yang telah ditulis oleh J.T. Leek adalah sebagai beriku
 
 ## Mengapa kita perlu membaca makalah?
 
-The academic paper is still the primary way of distributing new knowledge to the world. There are other ways too, with code, or blogs, or twitter. But academic papers are still the gold standard and where the vast majority of new scientific discoveries are reported. 
+Makalah akademik masih menjadi moda utama untuk penyebaran informasi saintifik kepada dunia. Walaupun saat ini banyak moda lainnya, melalui kode program, blog, atau twitter, namun demikian makalah masih merupakan standar untuk melaporkan temuan-temuan saintifik yang baru. 
 
 ## Apa yang seharusnya anda baca?
 
->Beberapa item berikut hanya relevan untuk bidang kesehatan
+>Beberapa item berikut hanya relevan untuk bidang kesehatan.
 
-Well this depends a lot on what you are interested in. There are a few broad categories of journals depending on what you are looking for. 
+Jawabannya akan sangat bergantung kepada bidang anda masing-masing. Berikut ini adalah beberapa kategori jurnal yang umum dijumpai.
 
-* __Majalah saintifik__: mirip jurnal [Nature](http://www.nature.com/index.html), [PNAS](http://www.pnas.org/), and [Science](http://www.sciencemag.org/) publish papers that are supposed to be "breakthroughs" of interest to a "general audience". This means that the papers tend to be written at a slightly less technical level and so are often more readible to people outside of a particular field. It also means that a lot of the most important papers get published in these journals. The flip side is that people often stretch hard in the interpretation of their data to make it seem like a "breakthrough" and get it into one of these journals. This means that the rate that papers are retracted is also [very high](http://iai.asm.org/content/79/10/3855.long) in these journals. So read what you see there with a healthy grain of salt. 
+* __Majalah saintifik__: mirip jurnal [Nature](http://www.nature.com/index.html), [PNAS](http://www.pnas.org/), dan  [Science](http://www.sciencemag.org/) mempublikasikan makalah yang sifatnya "terobosan" yang diminati oleh pembaca umum. Dengan demikian, paper-paper dalam media ini ditulis dalam bahasa yang lebih ringan (tidak terlalu teknis), sehingga dapat dibaca dan dipahami oleh pembaca dari berbagai bidang ilmu. Hal ini juga berarti bahwa banyak makalah penting yang dipublikasikan oleh jurnal ini. Di sisi sebaliknya, penulis biasanya akan ditekan keras untuk menginterpretasi datanya, sehingga terlihat sebagai  sebuah "terobosan". Dampak akhirnya adalah jumlah paper yang ditolak pun akan tinggi, [baca juga artikel ini](http://iai.asm.org/content/79/10/3855.long). 
 
-* __Majalah kesehatan__: In the health sciences there is a similar set of journals like the [New England Journal of Medicine](http://www.nejm.org/) and the [Journal of the American Medical Association](http://jama.jamanetwork.com/journal.aspx). They have the same benefits and caveats as the Science magazines, but with a more health flavored bent. 
-
-* __Mega journals__: Journals like [PLoS One](http://www.plosone.org/) and [Peerj](https://peerj.com/) also publish in a wide range of areas and a ton of papers. The review criteria here is that it must be "correct" but not necessarily a "breathrough". So the heterogeneity in the papers is high. If a paper seems too good to be true, again it is worth taking with a grain of salt. 
+* __Majalah kesehatan__: Di bidang ilmu kesehatan ada jurnal jenis ini seperti [New England Journal of Medicine](http://www.nejm.org/) dan [Journal of the American Medical Association](http://jama.jamanetwork.com/journal.aspx). Mereka punya nilai lebih sama dengan majalah saintifik, tapi dengan nilai kesehatan yang lebih tinggi (sedikit lebih spesifik). 
+* __Mega journals__: Jurnal-jurnal seperti [PLoS One](http://www.plosone.org/) dan [Peerj](https://peerj.com/) juga mempublikasikan makalah dalam area yang luas. Kriteria review-nya lebih fokus kepada kebenaran, tanpa harus terlihat sisi kebaruannya. Dengan demikian paper yang dimuat akan sangat beragam. 
 
 * __Jurnal saintifik bidang khusus__: Most scientific journals are not megajournals or magazines. These journals tend to be very field specific and tend to be much heavier on the details. This is where most science is published. The papers tend to be less focused on "breakthroughs" but are also less consistently risky to trust in these journals. In my area the journals might be something like [Biostatistics](http://biostatistics.oxfordjournals.org/) or  [Biometrics](http://www.biometrics.tibs.org/).
 
