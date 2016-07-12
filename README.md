@@ -105,9 +105,11 @@ Setelahnya, anda dapat menilai secara lebih kritis apakah penulis melakukan pene
 
 ## Membaca makalah - Bagian `Hasil`
 
-I find that if the authors have done their job and made their figures tell the story and clear, then I usually spend less time reading the results section. The key results are usually in the figures, but I still glance over this section to see if there is any claim/idea that I missed from reading the figures. In general, I compare this section very carefully to the methods to make sure that the results seem well justified compared to what they say they did in the methods Membaca makalah - Bagian `Hasil` - Bagian `Kesimpulan`
+Bila penulis menyusun tulisannya dengan baik dan mereka menyampaikan gambar/ilustrasi yang mampu bercerita, maka pembaca akan lebih mudah mencerna hasil riset dalam suatu makalah, karena hasil riset akan banyak terkandung di dalam gambar (dan tabel). Tapi disarankan untuk membaca bagian ini dengan lebih rinci untuk mengantisipasi butir-butir yang tidak terekam dalam gambar. Kemudian isi bab ini perlu dibandingkan dengan bab metode untuk melihat benang merah diantara keduanya. 
 
-Just like with the introduction, I often skip the conclusions. It is usually just a recap of what happened in the rest of the paper with a bit of guess work as to how the results might fit into the broader scheme.
+## Membaca makalah - Bagian `Kesimpulan`
+
+Seperti halnya Bab Pendahuluan, JTL biasanya tidak membaca Bab Kesimpulan. Bab ini biasanya adalah rekapitulasi apa yang telah dilakukan di bagian-bagian sebelumnya ditambah dengan sedikit ulasan, bagaimana hasilnya dapat memenuhi lingkup yang lebih luas. 
 
 ## Pesan khusus
 
@@ -124,3 +126,5 @@ Membaca makalah akademik adalah cara yang bagus untuk menangkap perkembangan ilm
 Banyak makalah yang dinilai menarik oleh beberapa orang, juga dinilai bagus oleh sebagian pembaca yang lainnya. Satu cara yang baik untuk melihat apakah suatu makalah telah didiskusikan oleh banyak orang, adalah dengan mencari apakah ada blog yang telah membahasnya. Blog mengandung pendapat penulisnya (pemilik blog), sehingga sifatnya sangat subyektif. Oleh karenanya selain membaca pendapat yang mendukungMembaca makalah akademik adalah cara yang bagus untuk menangkap perkembangan ilmu. Tapi umumnya kita belum yakin tentang apa yang telah dipahami sebelum kita mampu menjelaskannya kepada orang lain, dan membuatnya paham. Maka JTL menyarankan untuk mendiskusikan suatu makalah dengan beberapa orang. Cara yang paling baik adalah dengan membentuk `journal club`. 
 
 >Saat ini ada situs jejaring reviewer bernama [Publons](www.publons.com). Situs ini beranggotakan para peneliti yang membuat hasil reviewnya terhadap suatu dokumen ilmiah. Skor diberikan untuk orang yang telah membagikan hasil reviewnya. Coba anda kunjungi. 
+
+Post ini dibuat dengan Markdown (md) syntax menggunakan editor online [Dillinger](http://dillinger.io). File source md dapat diunduh di repository [Github ini](). 
