@@ -111,12 +111,11 @@ Just like with the introduction, I often skip the conclusions. It is usually jus
 
 ## Pesan khusus
 
-Satu hal yang perlu diingat adalah bahwa perkembangan sains seringkali lambat, konstan, dan bertahap. Tetapi ada tekanan sangat besar bagi para saintis untuk menghasilkan "terobosan" (baca juga artikel saya ini ["i got a big one here"](http://simplystatistics.org/2016/02/01/a-menagerie-of-messed-up-data-analyses-and-how-to-avoid-them/) fallacy). Saat membaca makalah, bila si penulis When reading a paper if the authors claim they have cured cancer, discovered life on mars, or unified relativity and quantum theory then you should assume that they are full of it unless conclusively demonstrated otherwise.  
-
+Satu hal yang perlu diingat adalah bahwa perkembangan sains seringkali lambat, konstan, dan bertahap. Tetapi ada tekanan sangat besar bagi para saintis untuk menghasilkan "terobosan" (baca juga artikel JTL ini ["i got a big one here"](http://simplystatistics.org/2016/02/01/a-menagerie-of-messed-up-data-analyses-and-how-to-avoid-them/) fallacy). Saat membaca makalah, anda harus berprasangka baik. Bila ada penulis yang berpendapat bahwa ia dapat menyembuhkan kanker atau menemukan kehidupan di Mars atau teori canggih lainnya, maka anda perlu meyakini kepakarannya, kecuali ada bukti yang sebaliknya.
 
 ## Jelaskan (apa yang telah anda pahami) kepada orang lain 
 
-Membaca makalah akademik adalah cara yang bagus untuk menangkap perkembangan ilmu. Tapi umumnya kita belum yakin tentang apa yang telah dipahami sebelum kita mampu menjelaskannya kepada orang lain, dan membuatnya paham. Maka JTL menyarankan untuk mendiskusikan suatu makalah dengan beberapa orang. Cara yang paling baik adalah dengan membentuk `journal club`. 
+Membaca makalah akademik adalah cara yang bagus untuk menangkap perkembangan ilmu. Tapi umumnya kita belum yakin tentang apa yang telah dipahami sebelum kita mampu menjelaskannya kepada orang lain, dan membuatnya paham. Maka JTL menyarankan untuk mendiskusikan suatu makalah dengan beberapa orang, misalnya dengan membentuk `journal club`. 
 
 >Saat ini ada situs jejaring reviewer bernama [Publons](www.publons.com). Situs ini beranggotakan para peneliti yang membuat hasil reviewnya terhadap suatu dokumen ilmiah. SKor diberikan untuk orang yang telah membagikan hasil reviewnya. Coba anda kunjungi. 
 
@@ -124,4 +123,4 @@ Membaca makalah akademik adalah cara yang bagus untuk menangkap perkembangan ilm
 
 Banyak makalah yang dinilai menarik oleh beberapa orang, juga dinilai bagus oleh sebagian pembaca yang lainnya. Satu cara yang baik untuk melihat apakah suatu makalah telah didiskusikan oleh banyak orang, adalah dengan mencari apakah ada blog yang telah membahasnya. Blog mengandung pendapat penulisnya (pemilik blog), sehingga sifatnya sangat subyektif. Oleh karenanya selain membaca pendapat yang mendukungMembaca makalah akademik adalah cara yang bagus untuk menangkap perkembangan ilmu. Tapi umumnya kita belum yakin tentang apa yang telah dipahami sebelum kita mampu menjelaskannya kepada orang lain, dan membuatnya paham. Maka JTL menyarankan untuk mendiskusikan suatu makalah dengan beberapa orang. Cara yang paling baik adalah dengan membentuk `journal club`. 
 
->Saat ini ada situs jejaring reviewer bernama [Publons](www.publons.com). Situs ini beranggotakan para peneliti yang membuat hasil reviewnya terhadap suatu dokumen ilmiah. SKor diberikan untuk orang yang telah membagikan hasil reviewnya. Coba anda kunjungi. 
+>Saat ini ada situs jejaring reviewer bernama [Publons](www.publons.com). Situs ini beranggotakan para peneliti yang membuat hasil reviewnya terhadap suatu dokumen ilmiah. Skor diberikan untuk orang yang telah membagikan hasil reviewnya. Coba anda kunjungi. 
