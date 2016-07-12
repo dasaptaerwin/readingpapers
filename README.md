@@ -127,4 +127,4 @@ Banyak makalah yang dinilai menarik oleh beberapa orang, juga dinilai bagus oleh
 
 >Saat ini ada situs jejaring reviewer bernama [Publons](www.publons.com). Situs ini beranggotakan para peneliti yang membuat hasil reviewnya terhadap suatu dokumen ilmiah. Skor diberikan untuk orang yang telah membagikan hasil reviewnya. Coba anda kunjungi. 
 
-Post ini dibuat dengan Markdown (md) syntax menggunakan editor online [Dillinger](http://dillinger.io). File source md dapat diunduh di repository [Github ini](). 
+Post ini dibuat dengan Markdown (md) syntax menggunakan editor online [Dillinger](http://dillinger.io). File source md dapat diunduh di repository [Github ini](https://github.com/dasaptaerwin/readingpapers/tree/dasaptaerwin-patch-1). 
